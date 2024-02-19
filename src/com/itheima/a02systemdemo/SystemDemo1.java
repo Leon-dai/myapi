@@ -1,4 +1,4 @@
-package a02systemdemo;
+package com.itheima.a02systemdemo;
 
 public class SystemDemo1 {
     public static void main(String[] args) {

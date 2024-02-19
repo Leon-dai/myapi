@@ -1,4 +1,4 @@
-package a03runtimedemo;
+package com.itheima.a03runtimedemo;
 
 import java.io.IOException;
 
