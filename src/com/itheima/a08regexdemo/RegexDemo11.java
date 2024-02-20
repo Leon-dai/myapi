@@ -2,6 +2,12 @@ package com.itheima.a08regexdemo;
 
 public class RegexDemo11 {
     public static void main(String[] args) {
+        /**
+         * 捕获分组
+         * 后续还要继续使用本组的数据
+         * 正则内部使用：\\组号
+         * 正则外部使用：$组号
+         */
         /*口吃替换
             需求：
             将字符串：我要学学编编编编程程程程程程
